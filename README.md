@@ -1,228 +1,363 @@
 # Bronze Tier AI Assistant
 
-A beginner-friendly AI assistant that processes files dropped into a local folder, analyzes their content using Claude AI, and presents results in an organized Obsidian vault dashboard.
+**Personal AI Employee Hackathon 0 - Bronze Tier Submission**
 
-## Features
+A file-based task processing system that uses Claude Code for AI-powered analysis. Files are dropped in an Inbox folder, processed by Claude Code on-demand, and organized in an Obsidian vault with automatic dashboard updates.
 
-- **Automatic File Processing**: Drop files in Inbox/, AI processes them automatically
-- **Multiple File Types**: Supports .txt, .md, .pdf, .png, .jpg, .jpeg
-- **AI-Powered Summaries**: Claude generates concise summaries with key points
-- **Dashboard Visibility**: Central dashboard showing all processed tasks
-- **Custom Rules**: Define your own processing preferences in Company Handbook
-- **Local-First**: All data stays on your machine, complete privacy
-- **Manual Testing**: Simple validation approach for beginners
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
+[![Bronze Tier](https://img.shields.io/badge/Tier-Bronze-cd7f32.svg)](https://github.com/mub7865/Hackathon-0)
 
-## Quick Start
+**Repository**: https://github.com/mub7865/Hackathon-0
+
+---
+
+## ✨ Features
+
+- **🔍 Automatic File Detection**: Python watcher monitors Inbox folder (WSL compatible)
+- **🤖 AI-Powered Analysis**: Claude Code generates summaries with emoji flags
+- **📊 Obsidian Dashboard**: Central dashboard showing all processed tasks
+- **📝 Custom Rules**: Define processing preferences in Company Handbook
+- **🔒 Local-First**: All data stays on your machine, complete privacy
+- **👤 Human-in-the-Loop**: Manual trigger required (Bronze tier compliant)
+- **🧹 Cleanup Script**: Automated Inbox management after processing
+- **💻 WSL Compatible**: Uses PollingObserver for Windows Subsystem for Linux
+
+---
+
+## 🚀 Quick Start
 
 ### Prerequisites
 
-- Python 3.13+
-- Obsidian (free download from https://obsidian.md)
-- Claude API key (from https://console.anthropic.com/)
+- **Python 3.13+**
+- **Obsidian** (free): https://obsidian.md
+- **Claude Code** (CLI tool): https://claude.com/claude-code
 
 ### Installation
 
-1. **Clone or download this project**:
-   ```bash
-   cd bronze/
-   ```
+```bash
+# 1. Clone repository
+git clone https://github.com/mub7865/Hackathon-0.git
+cd Hackathon-0
 
-2. **Install Python dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+# 2. Create virtual environment
+python3 -m venv venv
+source venv/bin/activate  # Linux/Mac
+# OR
+venv\Scripts\activate     # Windows
 
-3. **Configure environment**:
-   ```bash
-   cp .env.example .env
-   # Edit .env and add your Claude API key
-   ```
+# 3. Install dependencies
+pip install -r requirements.txt
 
-4. **Initialize vault**:
-   ```bash
-   python src/cli/main.py init-vault --path ./vault
-   ```
+# 4. Open vault in Obsidian
+# Launch Obsidian → "Open folder as vault" → Select vault/ directory
+```
 
-5. **Open vault in Obsidian**:
-   - Launch Obsidian
-   - Click "Open folder as vault"
-   - Select the `vault/` directory
+### Daily Workflow
 
-6. **Start file watcher**:
-   ```bash
-   python src/watcher/file_watcher.py --vault ./vault
-   ```
+**See [QUICK_START.md](QUICK_START.md) for detailed guide.**
 
-7. **Test the system**:
-   - Drop a text file in `vault/Inbox/`
-   - Wait 30 seconds for detection
-   - Run: `claude code` and execute `/process-tasks`
-   - Check `vault/Done/` for the processed file with AI summary
-   - Open Dashboard.md in Obsidian to see stats
+```bash
+# 1. Start watcher (keep running)
+cd /path/to/Hackathon-0
+source venv/bin/activate
+python src/watcher/file_watcher.py --vault ./vault
 
-## Project Structure
+# 2. Drop files in vault/Inbox/
+
+# 3. Wait 10-15 seconds (watcher detects files)
+
+# 4. Process tasks (HITL trigger)
+/process-tasks
+
+# 5. View results in Obsidian (Dashboard.md)
+
+# 6. Cleanup Inbox (optional)
+python src/utils/cleanup_inbox.py --vault ./vault --execute
+```
+
+---
+
+## 📁 Project Structure
 
 ```
 bronze/
 ├── src/
-│   ├── watcher/          # File monitoring system
-│   ├── skills/           # Claude Code Agent Skills
-│   ├── models/           # Data models (Task, Dashboard, Handbook)
-│   ├── utils/            # Utilities (YAML, logging, file parsing)
-│   └── cli/              # Command-line interface
-├── vault/                # Obsidian vault
-│   ├── Inbox/           # Drop files here
-│   ├── Needs_Action/    # Pending tasks (auto-created)
-│   ├── Done/            # Completed tasks (auto-moved)
-│   ├── Logs/            # Error logs
-│   ├── Dashboard.md     # Status overview
-│   └── Company_Handbook.md  # Your processing rules
+│   ├── watcher/              # File monitoring system
+│   │   ├── file_watcher.py   # Main watcher (PollingObserver)
+│   │   ├── file_handler.py   # Event handler
+│   │   └── task_creator.py   # Task file creator
+│   ├── utils/                # Utilities
+│   │   ├── cleanup_inbox.py  # Inbox cleanup script
+│   │   ├── file_parser.py    # File content extraction
+│   │   ├── logger.py         # Logging system
+│   │   └── yaml_handler.py   # YAML frontmatter parser
+│   ├── models/               # Data models
+│   │   ├── task_file.py      # Task file model
+│   │   ├── dashboard.py      # Dashboard model
+│   │   └── handbook.py       # Handbook model
+│   └── cli/                  # CLI tools
+│       └── main.py           # Vault management
+├── vault/                    # Obsidian vault
+│   ├── Inbox/               # 👈 DROP FILES HERE
+│   ├── Needs_Action/        # Pending tasks (auto-created)
+│   ├── Done/                # Completed tasks (auto-moved)
+│   ├── Logs/                # Error logs
+│   ├── Dashboard.md         # 👈 OPEN IN OBSIDIAN
+│   └── Company_Handbook.md  # 👈 EDIT YOUR RULES
 ├── tests/
-│   ├── fixtures/        # Test files
-│   └── scenarios/       # Manual test plans
-├── requirements.txt     # Python dependencies
-├── .env.example         # Environment template
-└── README.md           # This file
+│   └── fixtures/            # Test files
+├── requirements.txt         # Python dependencies
+├── README.md               # This file
+└── QUICK_START.md          # Detailed workflow guide
 ```
 
-## Usage
+---
 
-### Daily Workflow
+## 🎯 How It Works
 
-1. **Start watcher** (if not running):
-   ```bash
-   python src/watcher/file_watcher.py --vault ./vault
-   ```
+### Architecture
 
-2. **Drop files** into `vault/Inbox/` throughout the day
+```
+┌─────────────────────────────────────────────────────────┐
+│                   BRONZE TIER WORKFLOW                  │
+└─────────────────────────────────────────────────────────┘
 
-3. **Process tasks** periodically:
-   ```bash
-   claude code
-   /process-tasks
-   ```
+1. DROP FILES
+   User: cp files/*.txt vault/Inbox/
 
-4. **Review results** in Obsidian Dashboard and Done/ folder
+2. WATCHER DETECTS (Python Script)
+   Watcher: Monitors Inbox (PollingObserver for WSL)
+   Creates: Task files in Needs_Action/
+   Original: Stays in Inbox (archive)
 
-### Customization
+3. MANUAL TRIGGER (HITL)
+   User: /process-tasks
+
+4. CLAUDE PROCESSES (AI Analysis)
+   Claude: Reads Company_Handbook.md
+   Claude: Analyzes each task
+   Claude: Adds AI summary + emoji flags + action items
+   Claude: Moves tasks to Done/
+   Original: Still in Inbox
+
+5. CLEANUP (Optional)
+   User: python src/utils/cleanup_inbox.py --vault ./vault --execute
+   Removes: Processed files from Inbox
+   Keeps: Task files in Done/ (permanent record)
+```
+
+### Workflow Details
+
+**Inbox → Needs_Action → Done**
+
+1. **File Detection**: Watcher detects new files in Inbox (10-15 seconds)
+2. **Task Creation**: Creates task file in Needs_Action with YAML frontmatter
+3. **Manual Trigger**: User runs `/process-tasks` (Human-in-the-Loop)
+4. **AI Analysis**: Claude reads Company Handbook and generates:
+   - 3-bullet summary (150-200 words)
+   - Emoji flags (💰 >$500, 🚨 urgent, 📝 notes, 👤 clients)
+   - Key points with context
+   - Action items as checkboxes
+5. **Task Completion**: Task moved to Done/, Dashboard updated
+6. **Cleanup**: Optional script removes processed files from Inbox
+
+---
+
+## 🛠️ Configuration
+
+### Company Handbook
 
 Edit `vault/Company_Handbook.md` to customize:
-- Summary length and format
-- Custom flags (e.g., "flag amounts > $500")
-- Tone and style preferences
-- Domain-specific rules
+
+```markdown
+## Custom Flags
+- Amount > $500 → 💰 High-value
+- Amount > $10,000 → 🚨💰 Critical
+- Deadline < 3 days → 🚨 Urgent
+- Contains 'meeting' → 📝 Meeting notes
+- Contains client name → 👤 Client communication
+
+## Summarization Rules
+- Exactly 3 bullet points
+- 150-200 words total
+- Highlight dates and amounts in bold
+- Action-oriented phrasing
+
+## Tone & Style
+- Professional and courteous
+- Concise language
+- Active voice
+- Direct addressing
+```
 
 Changes apply immediately to the next processed task.
 
-## Architecture
+---
 
-**File-Based State Management**: All data stored as markdown files with YAML frontmatter. No database required.
+## 📊 Supported File Types
 
-**Workflow**:
-1. User drops file in Inbox/
-2. Watcher detects file → creates task in Needs_Action/
-3. User runs /process-tasks skill
-4. Claude AI reads task → generates summary
-5. Task moved to Done/ with summary
-6. Dashboard updated with stats
+- **Text**: `.txt`, `.md`
+- **Documents**: `.pdf`
+- **Images**: `.png`, `.jpg`, `.jpeg`
+- **Max size**: 10MB
 
-**Key Components**:
-- **File Watcher**: Python watchdog monitoring Inbox/
-- **Agent Skill**: Claude Code skill for AI processing
-- **Data Models**: TaskFile, Dashboard, Handbook
-- **Utilities**: YAML parser, file parser, logger
+---
 
-## Manual Testing
+## 🧪 Testing
 
-Bronze tier uses manual validation (no automated tests):
+### Manual Test
 
-1. **Test file processing**:
-   ```bash
-   cp tests/fixtures/sample.txt vault/Inbox/
-   # Wait 30 seconds, then process
-   ```
+```bash
+# 1. Start watcher
+python src/watcher/file_watcher.py --vault ./vault
 
-2. **Test dashboard updates**:
-   - Process 3 files
-   - Open Dashboard.md
-   - Verify counts and recent activity
+# 2. Drop test file
+cp tests/fixtures/sample.txt vault/Inbox/
 
-3. **Test custom rules**:
-   - Add rule to Company_Handbook.md
-   - Process a file
-   - Verify rule applied in summary
+# 3. Wait 15 seconds
 
-See `tests/scenarios/` for detailed test plans.
+# 4. Process
+/process-tasks
 
-## Troubleshooting
+# 5. Verify
+ls vault/Done/
+cat vault/Dashboard.md
+```
 
-### Watcher not detecting files
-- Check watcher is running: `ps aux | grep file_watcher`
-- Verify file type is supported
-- Check file size < 10MB
-- Check logs: `cat vault/Logs/watcher-*.log`
+### Cleanup Test
 
-### Claude API errors
-- Verify API key in .env
-- Check internet connection
-- Check rate limits at console.anthropic.com
+```bash
+# Dry run (safe - shows what would be deleted)
+python src/utils/cleanup_inbox.py --vault ./vault
 
-### Dashboard not updating
-- Refresh Obsidian (close and reopen Dashboard.md)
-- Check Dashboard.md exists
-- Manually rebuild: `python src/cli/main.py rebuild-dashboard`
+# Actual cleanup
+python src/utils/cleanup_inbox.py --vault ./vault --execute
+```
 
-## Development
+---
 
-### Constitution Principles
+## 🐛 Troubleshooting
 
-This project follows 5 core principles:
-1. **Local-First Architecture**: All data stays local
-2. **File-Based Communication**: Markdown files as protocol
-3. **Human-in-the-Loop**: Manual approval for actions
-4. **Simplicity & Maintainability**: Beginner-friendly code
-5. **Manual Testing & Validation**: User verification
+### Watcher Not Detecting Files
 
-See `.specify/memory/constitution.md` for details.
+```bash
+# Check if watcher is running
+ps aux | grep file_watcher
 
-### SDD-RI Methodology
+# Check logs
+cat vault/Logs/file_watcher-*.log
 
-This project was built using Spec-Driven Development:
-- Constitution → Spec → Plan → Tasks → Implementation
-- All design documents in `specs/001-bronze-file-assistant/`
+# Restart watcher
+pkill -f file_watcher
+python src/watcher/file_watcher.py --vault ./vault
+```
 
-## Roadmap
+### Dashboard Not Updating
 
-**Bronze Tier** (Current): ✅
+```bash
+# Rebuild manually
+python src/cli/main.py rebuild-dashboard --path ./vault
+
+# Refresh Obsidian (close and reopen Dashboard.md)
+```
+
+### Files Not Processing
+
+- Check file type (must be .txt, .md, .pdf, .png, .jpg, .jpeg)
+- Check file size (must be < 10MB)
+- Check logs: `cat vault/Logs/file_handler-*.log`
+
+---
+
+## 🏗️ Architecture Principles
+
+### Bronze Tier Requirements
+
+✅ **Obsidian vault with Dashboard** - `vault/Dashboard.md`
+✅ **Working Watcher script** - `src/watcher/file_watcher.py`
+✅ **Claude Code integration** - `/process-tasks` command
+✅ **Folder structure** - Inbox, Needs_Action, Done
+✅ **AI as Agent Skills** - `.claude/skills/process-task/`
+✅ **Human-in-the-Loop** - Manual trigger required
+
+### Design Philosophy
+
+1. **Local-First**: All data stays on your machine
+2. **File-Based**: Markdown files with YAML frontmatter
+3. **Human-in-the-Loop**: Manual approval for processing
+4. **Simplicity**: Beginner-friendly, no complex setup
+5. **Privacy**: No external API calls (except Claude Code)
+
+---
+
+## 📚 Documentation
+
+- **[QUICK_START.md](QUICK_START.md)** - Detailed daily workflow guide
+- **[GITHUB_SETUP.md](GITHUB_SETUP.md)** - Repository setup instructions
+- **[Company_Handbook.md](vault/Company_Handbook.md)** - Processing rules
+- **[Dashboard.md](vault/Dashboard.md)** - Task overview
+
+---
+
+## 🗺️ Roadmap
+
+### Bronze Tier (Current) ✅
 - File drop and processing
 - Dashboard visibility
-- Custom rules
-- Error handling
+- Custom rules via handbook
+- Error handling and logging
+- WSL compatibility
+- Cleanup script
 
-**Silver Tier** (Future):
+### Silver Tier (Future)
 - Email integration (Gmail API)
 - WhatsApp monitoring
 - Automated scheduling
 - MCP servers for external actions
+- Pending_Approval workflow
 
-**Gold Tier** (Future):
+### Gold Tier (Future)
 - Multi-agent coordination
 - Advanced analytics
-- Mobile app
 - Real-time notifications
+- Cross-domain integration
 
-## License
+---
+
+## 🤝 Contributing
+
+This is a hackathon submission project. For issues or suggestions:
+
+1. Check existing documentation
+2. Review logs in `vault/Logs/`
+3. Open an issue on GitHub
+
+---
+
+## 📄 License
 
 MIT License - See LICENSE file for details
 
-## Support
+---
 
-- **Documentation**: See `specs/001-bronze-file-assistant/quickstart.md`
+## 🙏 Credits
+
+**Built for**: Personal AI Employee Hackathon 0
+**Methodology**: Spec-Driven Development (SDD-RI)
+**Powered by**: Claude Code (Anthropic)
+**Community**: https://agentfactory.panaversity.org/
+
+---
+
+## 📞 Support
+
+- **Repository**: https://github.com/mub7865/Hackathon-0
 - **Issues**: Check `vault/Logs/` for error messages
-- **Community**: https://agentfactory.panaversity.org/
+- **Documentation**: See QUICK_START.md for detailed guide
 
-## Credits
+---
 
-Built following the SDD-RI methodology from Panaversity Agent Factory.
+**Ready to use!** 🚀
 
-Powered by Claude AI (Anthropic).
+Start with: `python src/watcher/file_watcher.py --vault ./vault`
