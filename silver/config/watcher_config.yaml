@@ -1,0 +1,87 @@
+# Watcher Configuration for Silver Tier AI Assistant
+# All intervals are in seconds
+
+# Gmail Watcher Configuration
+gmail:
+  check_interval: 120  # 2 minutes
+  query: "is:unread is:important"
+  max_results: 50
+  retry:
+    max_attempts: 3
+    base_delay: 2.0
+    max_delay: 60.0
+  timeout: 30  # API request timeout in seconds
+
+# WhatsApp Watcher Configuration
+whatsapp:
+  check_interval: 30  # 30 seconds
+  keywords:
+    - urgent
+    - asap
+    - invoice
+    - payment
+    - help
+    - emergency
+    - critical
+  max_unread_chats: 20
+  retry:
+    max_attempts: 3
+    base_delay: 2.0
+    max_delay: 60.0
+  timeout: 45  # Page load timeout in seconds
+  session_check_interval: 300  # Check for QR code every 5 minutes
+
+# File Watcher Configuration
+file:
+  check_interval: 15  # 15 seconds
+  watch_folder: "Inbox"
+  file_extensions:
+    - .md
+    - .txt
+    - .pdf
+    - .docx
+    - .xlsx
+  max_file_size_mb: 50
+  retry:
+    max_attempts: 3
+    base_delay: 1.0
+    max_delay: 30.0
+
+# Orchestrator Configuration
+orchestrator:
+  cycle_interval: 300  # 5 minutes
+  lock_timeout: 900  # 15 minutes (stale lock detection)
+  retry:
+    max_attempts: 3
+    base_delay: 5.0
+    max_delay: 120.0
+
+# Task Classification Rules
+classification:
+  sensitive_keywords:
+    - send email
+    - post to linkedin
+    - publish
+    - delete
+    - remove
+    - transfer
+  amount_threshold: 500  # Dollar amount requiring approval
+  external_api_patterns:
+    - api.
+    - webhook
+    - http://
+    - https://
+
+# Duplicate Prevention
+duplicate_tracking:
+  cleanup_days: 7  # Remove processed IDs older than 7 days
+  max_tracked_ids: 10000  # Maximum IDs to track per source
+
+# Logging Configuration
+logging:
+  level: INFO  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  rotation:
+    max_bytes: 10485760  # 10 MB
+    backup_count: 5
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  json_format: false  # Set to true for structured JSON logs

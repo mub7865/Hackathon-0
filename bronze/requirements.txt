@@ -1,0 +1,20 @@
+# Bronze Tier AI Assistant - Python Dependencies
+# Installation: pip install -r requirements.txt
+
+# File system monitoring
+watchdog==4.0.0
+
+# YAML parsing for frontmatter
+pyyaml==6.0.1
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# PDF text extraction
+pypdf==4.0.0
+
+# Image processing
+pillow==10.2.0
+
+# Optional: JSON schema validation (for task file validation)
+jsonschema==4.20.0

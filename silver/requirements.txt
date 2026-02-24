@@ -1,0 +1,27 @@
+# Silver Tier AI Assistant Dependencies
+
+# Gmail API
+google-auth==2.27.0
+google-api-python-client==2.116.0
+google-auth-oauthlib==1.2.0
+
+# WhatsApp Web automation
+playwright>=1.41.0
+
+# File system monitoring (from Bronze)
+watchdog==4.0.0
+
+# YAML parsing
+pyyaml==6.0.1
+
+# Utilities
+python-dotenv==1.0.1
+
+# PDF parsing (for file watcher)
+pypdf==6.7.1
+
+# MCP SDK (for MCP servers)
+mcp==1.26.0
+
+# Stealth mode for browser automation
+playwright-stealth

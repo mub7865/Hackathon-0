@@ -1,0 +1,39 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "D:\\Hackathons\\hackathon-0\\silver\\vault"
+      ]
+    },
+    "email": {
+      "command": "D:\\Hackathons\\hackathon-0\\silver\\venv\\Scripts\\python.exe",
+      "args": [
+        "D:\\Hackathons\\hackathon-0\\silver\\mcp-servers\\email_mcp_server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "D:\\Hackathons\\hackathon-0\\silver"
+      }
+    },
+    "linkedin": {
+      "command": "D:\\Hackathons\\hackathon-0\\silver\\venv\\Scripts\\python.exe",
+      "args": [
+        "D:\\Hackathons\\hackathon-0\\silver\\mcp-servers\\linkedin_mcp_server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "D:\\Hackathons\\hackathon-0\\silver"
+      }
+    },
+    "whatsapp": {
+      "command": "D:\\Hackathons\\hackathon-0\\silver\\venv\\Scripts\\python.exe",
+      "args": [
+        "D:\\Hackathons\\hackathon-0\\silver\\mcp-servers\\whatsapp_mcp_server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "D:\\Hackathons\\hackathon-0\\silver"
+      }
+    }
+  }
+}

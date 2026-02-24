@@ -1,0 +1,19 @@
+This is a sample text file for testing the Bronze Tier AI Assistant.
+
+Subject: Project Update Request
+
+Hi Team,
+
+I need the Q4 financial report by Friday, January 24th. The report should include:
+- Revenue breakdown by product line
+- Expense analysis for the quarter
+- Comparison with Q3 results
+
+Please prioritize this as the board meeting is on Monday.
+
+Budget: $15,000 allocated for this analysis.
+
+Thanks,
+John Smith
+CFO
+john.smith@example.com

@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.local
+
+# Sessions and credentials (NEVER COMMIT)
+sessions/
+config/gmail_credentials.json
+config/gmail_token.json
+.credentials/
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!.claude/mcp.json
+!config/watcher_config.json
+
+# Logs
+*.log
+vault/Logs/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright
+.playwright/
+
+# MCP servers (has symlinks that cause issues)
+mcp-servers/
+
+# Session directories with problematic paths
+DHackathonshackathon-0silversessions*/

@@ -1,0 +1,28 @@
+# Ignore everything by default
+*
+
+# Allow bronze and silver directories
+!bronze/
+!bronze/**
+
+!silver/
+!silver/**
+
+# But ignore sensitive files within allowed directories
+**/.env
+**/.credentials/
+**/sessions/
+**/*.log
+**/__pycache__/
+**/venv/
+**/.venv/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.Python
+**/pip-log.txt
+**/pip-delete-this-directory.txt
+
+# Allow essential git files
+!.gitignore
+!.gitattributes
