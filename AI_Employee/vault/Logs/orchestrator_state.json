@@ -1,0 +1,17 @@
+{
+  "last_run": "2026-03-09T04:08:06.057276",
+  "current_cycle": 1991,
+  "status": "running",
+  "lock": {
+    "locked": false,
+    "locked_by": null,
+    "locked_at": null
+  },
+  "statistics": {
+    "tasks_processed_today": 93,
+    "tasks_approved_today": 2,
+    "tasks_rejected_today": 0,
+    "errors_today": 0
+  },
+  "last_error": null
+}

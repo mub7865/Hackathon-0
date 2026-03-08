@@ -1,0 +1,235 @@
+2026-01-21 19:38:49,560 - orchestrator-main - INFO - ============================================================
+2026-01-21 19:38:49,562 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-01-21 19:38:49,564 - orchestrator-main - INFO - ============================================================
+2026-01-21 19:38:49,565 - orchestrator-main - INFO - Vault Path: ./vault
+2026-01-21 19:38:49,566 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-01-21 19:38:49,567 - orchestrator-main - INFO - ============================================================
+2026-01-21 19:38:49,570 - orchestrator-main - ERROR - Orchestrator failed: 'Orchestrator' object has no attribute 'logger'
+2026-01-21 19:42:09,187 - orchestrator-main - INFO - ============================================================
+2026-01-21 19:42:09,189 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-01-21 19:42:09,191 - orchestrator-main - INFO - ============================================================
+2026-01-21 19:42:09,193 - orchestrator-main - INFO - Vault Path: ./vault
+2026-01-21 19:42:09,194 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-01-21 19:42:09,196 - orchestrator-main - INFO - ============================================================
+2026-01-21 20:19:24,829 - orchestrator-main - INFO - ============================================================
+2026-01-21 20:19:24,831 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-01-21 20:19:24,832 - orchestrator-main - INFO - ============================================================
+2026-01-21 20:19:24,833 - orchestrator-main - INFO - Vault Path: ./vault
+2026-01-21 20:19:24,834 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-01-21 20:19:24,834 - orchestrator-main - INFO - ============================================================
+2026-01-21 20:29:36,618 - orchestrator-main - INFO - ============================================================
+2026-01-21 20:29:36,619 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-01-21 20:29:36,621 - orchestrator-main - INFO - ============================================================
+2026-01-21 20:29:36,622 - orchestrator-main - INFO - Vault Path: ./vault
+2026-01-21 20:29:36,623 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-01-21 20:29:36,624 - orchestrator-main - INFO - ============================================================
+2026-01-21 20:49:25,712 - orchestrator-main - INFO - ============================================================
+2026-01-21 20:49:25,713 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-01-21 20:49:25,714 - orchestrator-main - INFO - ============================================================
+2026-01-21 20:49:25,715 - orchestrator-main - INFO - Vault Path: ./vault
+2026-01-21 20:49:25,717 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-01-21 20:49:25,718 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:02:00,582 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:02:00,591 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-01-22 01:02:00,600 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:02:00,603 - orchestrator-main - INFO - Vault Path: ./vault
+2026-01-22 01:02:00,606 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-01-22 01:02:00,608 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:07:27,712 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:07:27,714 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-01-22 01:07:27,719 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:07:27,723 - orchestrator-main - INFO - Vault Path: ./vault
+2026-01-22 01:07:27,726 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-01-22 01:07:27,729 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:29:55,081 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:29:55,185 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-01-22 01:29:55,257 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:29:55,335 - orchestrator-main - INFO - Vault Path: ./vault
+2026-01-22 01:29:55,386 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-01-22 01:29:55,465 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:35:49,181 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:35:49,185 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-01-22 01:35:49,188 - orchestrator-main - INFO - ============================================================
+2026-01-22 01:35:49,199 - orchestrator-main - INFO - Vault Path: ./vault
+2026-01-22 01:35:49,200 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-01-22 01:35:49,204 - orchestrator-main - INFO - ============================================================
+2026-02-06 01:26:47,791 - orchestrator-main - INFO - ============================================================
+2026-02-06 01:26:47,797 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-06 01:26:47,802 - orchestrator-main - INFO - ============================================================
+2026-02-06 01:26:47,805 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-06 01:26:47,812 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-06 01:26:47,815 - orchestrator-main - INFO - ============================================================
+2026-02-06 01:42:17,583 - orchestrator-main - INFO - ============================================================
+2026-02-06 01:42:17,591 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-06 01:42:17,601 - orchestrator-main - INFO - ============================================================
+2026-02-06 01:42:17,606 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-06 01:42:17,617 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-06 01:42:17,619 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:28:19,816 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:28:19,829 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-06 04:28:19,833 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:28:19,854 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-06 04:28:19,860 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-06 04:28:19,865 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:34:40,920 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:34:40,924 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-06 04:34:40,934 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:34:40,941 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-06 04:34:40,944 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-06 04:34:40,947 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:40:02,857 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:40:02,859 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-06 04:40:02,862 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:40:02,866 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-06 04:40:02,870 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-06 04:40:02,878 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:41:56,710 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:41:56,713 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-06 04:41:56,715 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:41:56,717 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-06 04:41:56,726 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-06 04:41:56,736 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:48:13,293 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:48:13,295 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-06 04:48:13,297 - orchestrator-main - INFO - ============================================================
+2026-02-06 04:48:13,300 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-06 04:48:13,302 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-06 04:48:13,304 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:30:22,562 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:30:22,565 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 00:30:22,575 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:30:22,578 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 00:30:22,584 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 00:30:22,587 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:32:36,826 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:32:36,829 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 00:32:36,844 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:32:36,868 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 00:32:36,876 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 00:32:36,955 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:36:42,535 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:36:42,542 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 00:36:42,545 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:36:42,553 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 00:36:42,557 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 00:36:42,560 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:47:45,292 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:47:45,299 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 00:47:45,313 - orchestrator-main - INFO - ============================================================
+2026-02-07 00:47:45,316 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 00:47:45,319 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 00:47:45,329 - orchestrator-main - INFO - ============================================================
+2026-02-07 01:46:59,576 - orchestrator-main - INFO - ============================================================
+2026-02-07 01:46:59,591 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 01:46:59,613 - orchestrator-main - INFO - ============================================================
+2026-02-07 01:46:59,625 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 01:46:59,646 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 01:46:59,652 - orchestrator-main - INFO - ============================================================
+2026-02-07 02:01:36,173 - orchestrator-main - INFO - ============================================================
+2026-02-07 02:01:36,178 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 02:01:36,180 - orchestrator-main - INFO - ============================================================
+2026-02-07 02:01:36,182 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 02:01:36,184 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 02:01:36,189 - orchestrator-main - INFO - ============================================================
+2026-02-07 02:08:18,825 - orchestrator-main - INFO - ============================================================
+2026-02-07 02:08:18,863 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 02:08:18,871 - orchestrator-main - INFO - ============================================================
+2026-02-07 02:08:18,886 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 02:08:18,896 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 02:08:18,909 - orchestrator-main - INFO - ============================================================
+2026-02-07 02:41:02,861 - orchestrator-main - INFO - ============================================================
+2026-02-07 02:41:02,889 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 02:41:02,898 - orchestrator-main - INFO - ============================================================
+2026-02-07 02:41:02,913 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 02:41:02,919 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 02:41:02,930 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:46:32,492 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:46:32,503 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 10:46:32,535 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:46:32,544 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 10:46:32,549 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 10:46:32,553 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:50:59,263 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:50:59,275 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 10:50:59,299 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:50:59,304 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 10:50:59,320 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 10:50:59,335 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:57:09,016 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:57:09,021 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 10:57:09,025 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:57:09,028 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 10:57:09,042 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 10:57:09,057 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:59:49,183 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:59:49,200 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-07 10:59:49,205 - orchestrator-main - INFO - ============================================================
+2026-02-07 10:59:49,217 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-07 10:59:49,227 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-07 10:59:49,231 - orchestrator-main - INFO - ============================================================
+2026-02-11 13:42:15,879 - orchestrator-main - INFO - ============================================================
+2026-02-11 13:42:15,897 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-11 13:42:15,902 - orchestrator-main - INFO - ============================================================
+2026-02-11 13:42:15,905 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-11 13:42:15,913 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-11 13:42:15,919 - orchestrator-main - INFO - ============================================================
+2026-02-11 21:24:22,132 - orchestrator-main - INFO - ============================================================
+2026-02-11 21:24:22,307 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-11 21:24:22,364 - orchestrator-main - INFO - ============================================================
+2026-02-11 21:24:22,411 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-11 21:24:22,584 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-11 21:24:23,519 - orchestrator-main - INFO - ============================================================
+2026-02-12 01:19:02,355 - orchestrator-main - INFO - ============================================================
+2026-02-12 01:19:02,371 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-12 01:19:02,387 - orchestrator-main - INFO - ============================================================
+2026-02-12 01:19:02,392 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-12 01:19:02,402 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-12 01:19:02,409 - orchestrator-main - INFO - ============================================================
+2026-02-12 01:26:09,836 - orchestrator-main - INFO - ============================================================
+2026-02-12 01:26:09,839 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-12 01:26:09,842 - orchestrator-main - INFO - ============================================================
+2026-02-12 01:26:09,844 - orchestrator-main - INFO - Vault Path: ./vault
+2026-02-12 01:26:09,848 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-12 01:26:09,854 - orchestrator-main - INFO - ============================================================
+2026-02-18 15:16:48,075 - orchestrator-main - INFO - ============================================================
+2026-02-18 15:16:48,083 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-18 15:16:48,083 - orchestrator-main - INFO - ============================================================
+2026-02-18 15:16:48,083 - orchestrator-main - INFO - Vault Path: D:\Hackathons\hackathon-0\silver\vault
+2026-02-18 15:16:48,084 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-18 15:16:48,084 - orchestrator-main - INFO - ============================================================
+2026-02-18 15:25:52,567 - orchestrator-main - INFO - ============================================================
+2026-02-18 15:25:52,568 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-18 15:25:52,568 - orchestrator-main - INFO - ============================================================
+2026-02-18 15:25:52,568 - orchestrator-main - INFO - Vault Path: D:\Hackathons\hackathon-0\silver\vault
+2026-02-18 15:25:52,568 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-18 15:25:52,569 - orchestrator-main - INFO - ============================================================
+2026-02-18 15:30:51,638 - orchestrator-main - INFO - ============================================================
+2026-02-18 15:30:51,639 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-18 15:30:51,639 - orchestrator-main - INFO - ============================================================
+2026-02-18 15:30:51,639 - orchestrator-main - INFO - Vault Path: D:\Hackathons\hackathon-0\silver\vault
+2026-02-18 15:30:51,639 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-18 15:30:51,639 - orchestrator-main - INFO - ============================================================
+2026-02-18 16:21:01,766 - orchestrator-main - INFO - ============================================================
+2026-02-18 16:21:01,767 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-18 16:21:01,768 - orchestrator-main - INFO - ============================================================
+2026-02-18 16:21:01,768 - orchestrator-main - INFO - Vault Path: D:\Hackathons\hackathon-0\silver\vault
+2026-02-18 16:21:01,769 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-18 16:21:01,771 - orchestrator-main - INFO - ============================================================
+2026-02-18 17:54:18,853 - orchestrator-main - INFO - ============================================================
+2026-02-18 17:54:18,853 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-18 17:54:18,853 - orchestrator-main - INFO - ============================================================
+2026-02-18 17:54:18,853 - orchestrator-main - INFO - Vault Path: D:\Hackathons\hackathon-0\silver\vault
+2026-02-18 17:54:18,854 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-18 17:54:18,854 - orchestrator-main - INFO - ============================================================
+2026-02-18 18:09:23,877 - orchestrator-main - INFO - ============================================================
+2026-02-18 18:09:23,878 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-18 18:09:23,878 - orchestrator-main - INFO - ============================================================
+2026-02-18 18:09:23,878 - orchestrator-main - INFO - Vault Path: D:\Hackathons\hackathon-0\silver\vault
+2026-02-18 18:09:23,878 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-18 18:09:23,879 - orchestrator-main - INFO - ============================================================
+2026-02-18 18:31:55,146 - orchestrator-main - INFO - ============================================================
+2026-02-18 18:31:55,147 - orchestrator-main - INFO - Silver Tier AI Assistant - Orchestrator
+2026-02-18 18:31:55,147 - orchestrator-main - INFO - ============================================================
+2026-02-18 18:31:55,148 - orchestrator-main - INFO - Vault Path: D:\Hackathons\hackathon-0\silver\vault
+2026-02-18 18:31:55,148 - orchestrator-main - INFO - Cycle Interval: 300s (5.0 minutes)
+2026-02-18 18:31:55,149 - orchestrator-main - INFO - ============================================================

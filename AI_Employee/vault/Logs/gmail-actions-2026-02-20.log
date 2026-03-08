@@ -1,0 +1,8 @@
+
+============================================================
+Timestamp: 2026-02-20T00:15:50.869466
+To: friend@example.com
+Subject: Re: Quick Question About Tomorrow's Meeting
+Status: FAILED
+Error: Gmail token not found at D:\Hackathons\hackathon-0\silver\.credentials\gmail-token.json. Run OAuth flow first.
+============================================================

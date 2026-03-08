@@ -1,0 +1,811 @@
+Sat Feb  7 13:44:48 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 13:46:08,754 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 13:46:08,755 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 13:46:08,769 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 13:46:09 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 13:48:09 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 13:48:41,586 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 13:48:41,587 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 13:48:41,598 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 13:48:41 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 13:50:41 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 13:51:13,318 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 13:51:13,318 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 13:51:13,368 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 13:51:13 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 13:53:13 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 13:54:23,313 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 13:54:23,313 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 13:54:23,364 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 13:54:23 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 13:56:23 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 13:56:36,440 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 13:56:36,440 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 13:56:36,453 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 13:56:36 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 13:58:36 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:00:08,960 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:00:08,960 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:00:09,006 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:00:09 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:02:09 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:02:31,789 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:02:31,789 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:02:31,805 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:02:31 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:04:31 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:06:01,116 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:06:01,116 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:06:01,140 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:06:01 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:08:01 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:08:39,866 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:08:39,866 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:08:39,879 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:08:40 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:10:40 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:11:05,586 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:11:05,587 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:11:05,603 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:11:05 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:13:05 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:14:28,012 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:14:28,012 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:14:28,029 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:14:28 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:16:28 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:16:46,093 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:16:46,093 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:16:46,105 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:16:46 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:18:46 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:19:59,856 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:19:59,856 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:19:59,880 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:20:00 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:22:00 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:22:17,416 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:22:17,417 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:22:17,430 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:22:17 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:24:17 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:24:37,888 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:24:37,889 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:24:37,900 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:24:38 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:26:38 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:26:53,844 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:26:53,844 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:26:53,857 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:26:53 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:28:53 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:29:15,814 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:29:15,814 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:29:15,825 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:29:15 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:31:15 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:32:05,136 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:32:05,136 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:32:05,172 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:32:05 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:34:05 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:34:20,369 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:34:20,369 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:34:20,387 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:34:20 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:36:20 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:36:43,798 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:36:43,798 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:36:43,813 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:36:43 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:38:43 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:39:00,937 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:39:00,937 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:39:00,949 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:39:01 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:41:01 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:41:16,141 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:41:16,142 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:41:16,152 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:41:16 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:43:16 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-07 14:43:32,322 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-07 14:43:32,323 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-07 14:43:32,340 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sat Feb  7 14:43:32 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sat Feb  7 14:45:32 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 02:07:56,809 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 02:07:56,810 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 02:07:56,865 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 02:07:57 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 02:09:57 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 02:11:33,226 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 02:11:33,227 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 02:11:33,247 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 02:11:33 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 02:13:33 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 02:14:06,350 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 02:14:06,351 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 02:14:06,367 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 02:14:06 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 02:16:06 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 02:17:29,074 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 02:17:29,075 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 02:17:29,131 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 02:17:29 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 02:19:29 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 02:20:03,312 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 02:20:03,312 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 02:20:03,326 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 02:20:03 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 13:38:10 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 13:42:07,738 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 13:42:07,738 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 13:42:08,201 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 13:42:09 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 13:44:09 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 13:47:19,745 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 13:47:19,745 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 13:47:19,798 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 13:47:20 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 13:49:20 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 13:51:36,640 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 13:51:36,641 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 13:51:36,677 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 13:51:37 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 13:53:37 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 13:55:48,147 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 13:55:48,147 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 13:55:48,223 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 13:55:48 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 13:57:48 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 13:59:38,504 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 13:59:38,504 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 13:59:38,535 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 13:59:38 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:01:38 PKT 2026: Starting task processing cycle...
+2026-02-08 14:02:30,843 - __main__ - INFO - Processing email task from demo.client@example.com
+2026-02-08 14:02:30,939 - __main__ - INFO - Draft reply added to final_demo_test.md
+2026-02-08 14:02:31,045 - __main__ - INFO - Moved final_demo_test.md to Pending_Approval
+📋 Found 1 task(s) to process
+
+🔄 Processing: final_demo_test.md
+✅ Processed successfully
+2026-02-08 14:03:28,556 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:03:28,556 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:03:28,677 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:03:29 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:05:29 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:07:21,578 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:07:21,579 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:07:21,646 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:07:22 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:09:22 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:12:44,308 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:12:44,308 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:12:44,334 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:12:44 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:14:44 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:15:52,035 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:15:52,036 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:15:52,109 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:15:52 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:17:52 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:20:06,359 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:20:06,359 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:20:06,472 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:20:06 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:22:06 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:22:47,542 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:22:47,542 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:22:47,558 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:22:47 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:24:47 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:26:48,290 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:26:48,291 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:26:48,549 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:26:49 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:28:49 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:29:11,213 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:29:11,215 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:29:11,235 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:29:11 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:31:11 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:32:56,791 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:32:56,804 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:32:57,254 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:32:58 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:34:58 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:35:26,525 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:35:26,525 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:35:26,544 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:35:26 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:37:26 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:37:55,265 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:37:55,265 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:37:55,283 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:37:55 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:39:55 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:41:07,038 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:41:07,039 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:41:07,062 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:41:07 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:43:07 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:43:39,093 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:43:39,094 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:43:39,114 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:43:39 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:45:39 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:47:38,328 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:47:38,328 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:47:38,351 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:47:38 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:49:38 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:50:02,995 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:50:02,996 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:50:03,013 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:50:03 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:52:03 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:52:30,398 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:52:30,398 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:52:30,450 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:52:30 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:54:30 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:54:58,769 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:54:58,769 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:54:58,783 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:54:59 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:56:59 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 14:57:22,999 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 14:57:22,999 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 14:57:23,012 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 14:57:23 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 14:59:23 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:00:32,410 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:00:32,410 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:00:32,470 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:00:32 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:02:32 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:02:49,096 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:02:49,097 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:02:49,120 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:02:49 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:04:49 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:05:08,767 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:05:08,767 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:05:08,777 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:05:08 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:07:08 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:07:46,816 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:07:46,816 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:07:46,834 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:07:47 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:09:47 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:10:04,137 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:10:04,137 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:10:04,149 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:10:04 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:12:04 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:12:20,789 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:12:20,790 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:12:20,821 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:12:21 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:14:21 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:14:38,638 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:14:38,639 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:14:38,654 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:14:38 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:16:38 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:16:53,020 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:16:53,020 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:16:53,032 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:16:53 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:18:53 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:19:07,207 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:19:07,207 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:19:07,224 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:19:07 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:21:07 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:21:21,125 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:21:21,125 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:21:21,137 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:21:21 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:23:21 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:23:35,994 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:23:35,994 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:23:36,016 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:23:36 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:25:36 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:26:31,172 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:26:31,172 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:26:31,183 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:26:31 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:28:31 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:28:48,125 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:28:48,125 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:28:48,136 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:28:48 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:30:48 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:31:01,899 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:31:01,899 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:31:01,913 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:31:02 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 15:33:02 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 15:33:17,086 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 15:33:17,086 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 15:33:17,101 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 15:33:17 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:29:13 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:30:34,191 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:30:34,191 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:30:34,230 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:30:34 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:32:34 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:34:12,291 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:34:12,291 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:34:12,303 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:34:12 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:36:12 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:36:29,789 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:36:29,789 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:36:29,801 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:36:30 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:38:30 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:38:47,874 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:38:47,874 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:38:47,887 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:38:48 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:40:48 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:41:09,407 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:41:09,407 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:41:09,421 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:41:09 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:43:09 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:43:30,449 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:43:30,449 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:43:30,466 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:43:30 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:45:30 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:47:00,374 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:47:00,374 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:47:00,525 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:47:01 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:49:01 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:49:27,779 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:49:27,779 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:49:27,790 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:49:27 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:51:27 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:51:51,487 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:51:51,488 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:51:51,515 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:51:51 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:53:51 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:55:10,020 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:55:10,021 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:55:10,044 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:55:10 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 19:57:10 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 19:58:18,141 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 19:58:18,142 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 19:58:18,213 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 19:58:18 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:00:18 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:03:11,920 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:03:11,921 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:03:11,986 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:03:12 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:05:12 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:05:46,010 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:05:46,010 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:05:46,023 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:05:46 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:07:46 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:08:52,792 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:08:52,792 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:08:52,804 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:08:52 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:10:52 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:11:12,087 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:11:12,088 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:11:12,108 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:11:12 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:13:12 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:15:30,914 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:15:30,915 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:15:31,021 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:15:31 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:17:31 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:20:36,397 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:20:36,398 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:20:36,436 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:20:36 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:22:36 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:25:30,459 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:25:30,459 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:25:30,517 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:25:30 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:27:30 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:30:11,924 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:30:11,924 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:30:12,374 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:30:12 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:32:12 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:32:38,566 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:32:38,566 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:32:38,601 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:32:38 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:34:38 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:34:50,923 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:34:50,923 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:34:50,934 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:34:51 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:36:51 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:37:11,953 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:37:11,953 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:37:12,001 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:37:12 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:39:12 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:40:26,120 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:40:26,120 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:40:26,143 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:40:26 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:42:26 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:42:44,576 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:42:44,577 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:42:44,589 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:42:44 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:44:44 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:45:13,463 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:45:13,463 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:45:13,474 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:45:13 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:47:13 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:47:27,028 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:47:27,029 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:47:27,040 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:47:27 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:49:27 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:49:39,696 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:49:39,696 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:49:39,708 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:49:39 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:51:39 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:51:50,160 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:51:50,161 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:51:50,172 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:51:50 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:53:50 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:54:02,321 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:54:02,321 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:54:02,333 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:54:02 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:56:02 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:56:51,813 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:56:51,814 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:56:51,841 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:56:52 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 20:58:52 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 20:59:14,025 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 20:59:14,025 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 20:59:14,036 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 20:59:14 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:01:14 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:02:07,052 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:02:07,052 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:02:07,064 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:02:07 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:04:07 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:07:38,286 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:07:38,286 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:07:38,319 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:07:38 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:09:38 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:11:20,643 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:11:20,643 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:11:20,675 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:11:21 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:13:21 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:14:20,274 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:14:20,275 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:14:20,286 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:14:20 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:16:20 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:16:43,395 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:16:43,396 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:16:43,407 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:16:43 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:18:43 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:19:04,018 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:19:04,019 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:19:04,028 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:19:04 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:21:04 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:21:27,714 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:21:27,715 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:21:27,726 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:21:27 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:23:27 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:24:05,895 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:24:05,896 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:24:05,915 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:24:06 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:26:06 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:26:26,379 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:26:26,380 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:26:26,390 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:26:26 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:28:26 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:28:46,812 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:28:46,813 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:28:46,825 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:28:47 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:30:47 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:31:37,847 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:31:37,848 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:31:37,858 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:31:38 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:33:38 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:33:58,611 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:33:58,611 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:33:58,620 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:33:58 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:35:58 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:41:12,266 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:41:12,266 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:41:12,279 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:41:12 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:43:12 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:45:06,563 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:45:06,563 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:45:06,580 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:45:06 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:47:06 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:47:28,367 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:47:28,367 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:47:28,378 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:47:28 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:49:28 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 21:49:50,818 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 21:49:50,819 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 21:49:50,832 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 21:49:50 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 21:51:50 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 22:00:17,970 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 22:00:17,970 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 22:00:18,000 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 22:00:18 PKT 2026: Cycle complete, sleeping for 2 minutes...
+Sun Feb  8 22:02:18 PKT 2026: Starting task processing cycle...
+✅ No tasks to process
+2026-02-08 22:04:39,414 - __main__ - INFO - Found 1 approved task(s) to execute
+2026-02-08 22:04:39,415 - __main__ - INFO - Executing: test_linkedin_20260207.md
+2026-02-08 22:04:39,430 - __main__ - ERROR - Could not extract LinkedIn content from test_linkedin_20260207.md
+✅ No approved tasks to execute
+Sun Feb  8 22:04:39 PKT 2026: Cycle complete, sleeping for 2 minutes...

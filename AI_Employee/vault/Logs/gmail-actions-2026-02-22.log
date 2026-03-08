@@ -1,0 +1,114 @@
+
+============================================================
+Timestamp: 2026-02-22T02:58:33.369650
+To: ubaidansaria79@gmail.com
+Subject: Re: Quick Favor - Need Your Input
+Status: FAILED
+Error: Gmail token not found at D:\Hackathons\hackathon-0\silver\.credentials\gmail-token.json. Run OAuth flow first.
+============================================================
+
+============================================================
+Timestamp: 2026-02-22T12:25:35.695570
+To: Ubaid Ansari <ubaidansaria79@gmail.com>
+Subject: Re: Urgent Need
+Status: FAILED
+Error: Gmail token not found at D:\Hackathons\hackathon-0\silver\.credentials\gmail-token.json. Run OAuth flow first.
+============================================================
+
+============================================================
+Timestamp: 2026-02-22T13:05:23.671549
+To: Ubaid Ansari <ubaidansaria79@gmail.com>
+Subject: Re: Quick Favor - Need Your Input
+Status: FAILED
+Error: Gmail token not found at D:\Hackathons\hackathon-0\silver\.credentials\gmail-token.json. Run OAuth flow first.
+============================================================
+
+============================================================
+Timestamp: 2026-02-22T14:21:13.995506
+To: ubaidansaria79@gmail.com
+Subject: Re: Test Fix Verification
+Status: FAILED
+Error: Gmail token not found at D:\Hackathons\hackathon-0\silver\.credentials\gmail-token.json. Run OAuth flow first.
+============================================================
+
+============================================================
+Timestamp: 2026-02-22T14:37:51.041196
+To: ubaidansaria79@gmail.com
+Subject: Test
+Status: FAILED
+Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+============================================================
+
+============================================================
+Timestamp: 2026-02-22T14:40:45.920091
+To: ubaidansaria79@gmail.com
+Subject: Test After Token Refresh
+Status: FAILED
+Error: <HttpError 403 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "Request had insufficient authentication scopes.". Details: "[{'message': 'Insufficient Permission', 'domain': 'global', 'reason': 'insufficientPermissions'}]">
+============================================================
+
+============================================================
+Timestamp: 2026-02-22T14:51:40.235863
+To: ubaidansaria79@gmail.com
+Subject: Test - Token Fixed
+Body: This email confirms that Gmail token with SEND permissions is working correctly!
+Status: SUCCESS
+Message ID: 19c84c30831e1b41
+============================================================
+
+============================================================
+Timestamp: 2026-02-22T14:55:55.282661
+To: ubaidansaria79@gmail.com
+Subject: Re: End-to-End Test
+Body: Hi,
+
+This is an end-to-end test to verify that:
+1. Email is actually sent via Gmail API
+2. Task moves to Done folder only after successful send
+3. MCP client properly checks the result
+
+If you receive this email, all fixes are working correctly!
+
+Best regards
+
+---
+Status: Approved for end-to-end testing
+Status: SUCCESS
+Message ID: 19c84c6ec6f60f3c
+============================================================
+
+============================================================
+Timestamp: 2026-02-22T16:17:49.991065
+To: Hamza ali <ha5755420@gmail.com>
+Subject: Re: Urgent Mail
+Body: I cannot draft an automated reply for this email because:
+
+1. **Classification Mismatch**: This email is classified as SENSITIVE, but the email-reply skill is designed for SIMPLE tasks only.
+
+2. **Content Concerns**: The email content ("Urgent I want 1000000000") is vague, lacks context, and could indicate:
+   - Spam or phishing attempt
+   - Poorly worded legitimate request
+   - Potential security concern
+
+3. **Required Action**: SENSITIVE emails require human review and approval before any response is sent.
+
+**Recommendation**: 
+
+This task should be moved to `vault/Pending_Approval/` with the following note:
+
+```markdown
+## Requires Human Review
+
+**Reason**: SENSITIVE classification + unclear/suspicious content
+**Risk Level**: Medium-High
+**Action Needed**: Human to determine:
+- Is this sender legitimate?
+- What does "1000000000" refer to?
+- Is this spam/phishing?
+- Should we respond at all?
+
+**Do Not Reply** until human review is complete.
+```
+Status: SUCCESS
+Message ID: 19c8511eaa48a1db
+============================================================

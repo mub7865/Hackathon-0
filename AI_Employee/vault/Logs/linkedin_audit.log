@@ -1,0 +1,306 @@
+2026-02-11 19:49:21,033 - INFO - 🤖 AI EMPLOYEE: Opening LinkedIn (Modern Mode)...
+2026-02-11 19:49:24,632 - INFO - Navigating...
+2026-02-11 19:49:34,013 - INFO - Locating 'Start a post'...
+2026-02-11 19:49:44,030 - WARNING - Text click failed, trying button role...
+2026-02-11 19:50:14,053 - WARNING - Button role failed, trying class...
+2026-02-11 19:50:45,986 - ERROR - ❌ Error: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".share-mb-launcher")
+
+2026-02-11 19:52:33,508 - INFO - 🤖 AI EMPLOYEE: Opening LinkedIn (Modern Mode)...
+2026-02-11 19:52:37,534 - INFO - Navigating...
+2026-02-11 19:52:45,494 - INFO - Locating 'Start a post'...
+2026-02-11 19:52:55,534 - WARNING - Text click failed, trying button role...
+2026-02-11 19:53:25,561 - WARNING - Button role failed, trying class...
+2026-02-11 19:53:57,266 - ERROR - ❌ Error: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".share-mb-launcher")
+
+2026-02-11 19:55:29,662 - INFO - 🤖 AI EMPLOYEE: Opening LinkedIn (Modern Mode)...
+2026-02-11 19:55:33,615 - INFO - Navigating...
+2026-02-11 19:55:41,157 - INFO - Locating 'Start a post'...
+2026-02-11 19:55:51,282 - WARNING - Text click failed, trying button role...
+2026-02-11 19:56:22,952 - INFO - Waiting for editor...
+2026-02-11 19:56:49,251 - INFO - Typing...
+2026-02-11 19:58:00,780 - INFO - Clicking Post...
+2026-02-11 19:58:01,042 - INFO - Post button clicked.
+2026-02-11 19:58:06,072 - INFO - ✅ SUCCESS: Post published.
+2026-02-19 23:52:05,759 - INFO - Processing request of type CallToolRequest
+2026-02-19 23:52:05,760 - WARNING - Tool 'create_post' not listed, no validation will be performed
+2026-02-23 03:34:13,276 - INFO - Processing request of type CallToolRequest
+2026-02-23 03:34:13,286 - WARNING - Tool 'create_post' not listed, no validation will be performed
+2026-02-23 15:40:36,223 - INFO - 🤖 AI EMPLOYEE: Starting LinkedIn Post (Visible Mode)...
+2026-02-23 15:40:56,982 - INFO - Opening post box...
+2026-02-23 15:41:06,373 - INFO - Typing content...
+2026-02-23 15:41:18,248 - INFO - Clicking Post button...
+2026-02-23 15:42:18,078 - ERROR - ❌ LinkedIn Error: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button.share-actions__primary-action, button:has-text(\"Post\")").first
+    - locator resolved to <button type="button" class="cbaa75c4 _91fce0ff _21173a9d _37c90019 cdcea5fd _1843f717 _62de7624 cd324c6e fc29c723 _61031593 a6067ae0 _12e91934 _6f2720fd b161615c ec4b97a4">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    38 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2026-02-23 15:45:13,292 - INFO - 🤖 AI EMPLOYEE: Starting LinkedIn Post (Visible Mode)...
+2026-02-23 15:45:29,646 - INFO - Opening post box...
+2026-02-23 15:45:39,251 - INFO - Typing content...
+2026-02-23 15:46:05,077 - INFO - Posting with Ctrl+Enter...
+2026-02-23 15:46:13,530 - WARNING - Could not verify post modal closed, but post likely sent
+2026-02-26 22:28:32,349 - INFO - Posting to LinkedIn
+2026-02-26 22:28:32,350 - INFO - 🤖 AI EMPLOYEE: Starting LinkedIn Post (Visible Mode)...
+2026-02-26 22:29:00,153 - INFO - Opening post box...
+2026-02-26 22:29:13,737 - INFO - Typing content...
+2026-02-26 22:29:37,265 - ERROR - ❌ LinkedIn Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"textbox\"], .ql-editor").first to be visible
+
+2026-02-26 22:29:37,266 - ERROR - Action execution failed for linkedin_post_test.md
+2026-02-26 22:29:37,266 - ERROR - Failed to execute linkedin_post_test.md, keeping in Approved
+2026-02-26 22:29:37,292 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 22:29:37,385 - INFO - Dashboard updated: 0 needs action, 6 pending, 84 done
+2026-02-26 22:29:37,473 - INFO - Cycle complete: 0 tasks processed in 67.9s
+2026-02-26 22:29:54,562 - INFO - Posting to LinkedIn
+2026-02-26 22:29:54,565 - INFO - 🤖 AI EMPLOYEE: Starting LinkedIn Post (Visible Mode)...
+2026-02-26 22:30:30,307 - INFO - Opening post box...
+2026-02-26 22:30:34,882 - INFO - Typing content...
+2026-02-26 22:30:52,792 - ERROR - ❌ LinkedIn Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"textbox\"], .ql-editor").first to be visible
+
+2026-02-26 22:30:52,793 - ERROR - Action execution failed for linkedin_post_test.md
+2026-02-26 22:30:52,793 - ERROR - Failed to execute linkedin_post_test.md, keeping in Approved
+2026-02-26 22:30:52,816 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 22:30:52,824 - INFO - Dashboard updated: 0 needs action, 6 pending, 84 done
+2026-02-26 22:30:52,833 - INFO - Cycle complete: 0 tasks processed in 60.0s
+2026-02-26 22:33:52,302 - INFO - Received stop signal
+2026-02-26 22:33:52,440 - INFO - Stopping orchestrator
+2026-02-26 22:33:57,556 - INFO - Posting to LinkedIn
+2026-02-26 22:33:57,678 - INFO - 🤖 AI EMPLOYEE: Starting LinkedIn Post (Visible Mode)...
+2026-02-26 22:34:15,129 - INFO - Opening post box...
+2026-02-26 22:34:18,729 - INFO - Typing content...
+2026-02-26 22:34:37,627 - INFO - Starting orchestrator cycle
+2026-02-26 22:34:37,628 - WARNING - Could not acquire lock, skipping cycle
+2026-02-26 22:34:48,493 - ERROR - ❌ LinkedIn Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"textbox\"], .ql-editor").first to be visible
+
+2026-02-26 22:34:48,494 - ERROR - Action execution failed for linkedin_post_test.md
+2026-02-26 22:34:48,494 - ERROR - Failed to execute linkedin_post_test.md, keeping in Approved
+2026-02-26 22:34:48,516 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 22:34:48,520 - INFO - Dashboard updated: 0 needs action, 6 pending, 84 done
+2026-02-26 22:34:48,525 - INFO - Cycle complete: 0 tasks processed in 51.6s
+2026-02-26 22:37:41,114 - INFO - Received stop signal
+2026-02-26 22:37:41,115 - INFO - Stopping orchestrator
+2026-02-26 22:39:37,754 - INFO - Starting orchestrator cycle
+2026-02-26 22:39:38,109 - INFO - Found 1 approved task(s) to execute
+2026-02-26 22:39:38,110 - INFO - Executing approved task: linkedin_post_test.md
+2026-02-26 22:39:38,115 - INFO - Posting to LinkedIn
+2026-02-26 22:39:38,116 - INFO - 🤖 AI EMPLOYEE: Starting LinkedIn Post (Visible Mode)...
+2026-02-26 22:40:26,488 - INFO - Opening post box...
+2026-02-26 22:40:39,660 - INFO - Typing content...
+2026-02-26 22:41:15,277 - ERROR - ❌ LinkedIn Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"textbox\"], .ql-editor").first to be visible
+
+2026-02-26 22:41:15,278 - ERROR - Action execution failed for linkedin_post_test.md
+2026-02-26 22:41:15,278 - ERROR - Failed to execute linkedin_post_test.md, keeping in Approved
+2026-02-26 22:41:15,303 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 22:41:15,305 - INFO - Dashboard updated: 0 needs action, 6 pending, 84 done
+2026-02-26 22:41:15,309 - INFO - Cycle complete: 0 tasks processed in 97.6s
+2026-02-26 22:42:03,205 - INFO - Posting to LinkedIn
+2026-02-26 22:42:03,206 - INFO - 🤖 AI EMPLOYEE: Starting LinkedIn Post (Visible Mode)...
+2026-02-26 22:42:20,534 - INFO - Opening post box...
+2026-02-26 22:42:26,005 - INFO - Clicked using selector: [aria-label*="Start a post"]
+2026-02-26 22:42:31,005 - INFO - Looking for text editor...
+2026-02-26 22:42:51,345 - INFO - Found editor using selector: .share-creation-state__text-editor
+2026-02-26 22:43:10,666 - INFO - Posting with Ctrl+Enter...
+2026-02-26 22:43:18,698 - WARNING - Could not verify post modal closed, but post likely sent
+2026-02-26 22:43:25,530 - INFO - Task completed and moved to Done: linkedin_post_test.md
+2026-02-26 22:43:25,531 - INFO - Successfully executed linkedin_post_test.md
+2026-02-26 22:43:25,552 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 22:43:25,554 - INFO - Dashboard updated: 0 needs action, 6 pending, 85 done
+2026-02-26 22:43:25,557 - INFO - Cycle complete: 0 tasks processed in 82.7s
+2026-02-26 22:48:25,660 - INFO - Starting orchestrator cycle
+2026-02-26 22:48:26,387 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 22:48:27,028 - INFO - Dashboard updated: 0 needs action, 6 pending, 85 done
+2026-02-26 22:48:27,953 - INFO - Cycle complete: 0 tasks processed in 2.3s
+2026-02-26 22:53:29,231 - INFO - Starting orchestrator cycle
+2026-02-26 22:53:29,382 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 22:53:29,567 - INFO - Dashboard updated: 0 needs action, 6 pending, 85 done
+2026-02-26 22:53:29,714 - INFO - Cycle complete: 0 tasks processed in 0.5s
+2026-02-26 22:58:29,828 - INFO - Starting orchestrator cycle
+2026-02-26 22:58:29,888 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 22:58:29,981 - INFO - Dashboard updated: 0 needs action, 6 pending, 85 done
+2026-02-26 22:58:30,042 - INFO - Cycle complete: 0 tasks processed in 0.2s
+2026-02-26 23:03:30,099 - INFO - Starting orchestrator cycle
+2026-02-26 23:03:30,207 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:03:30,282 - INFO - Dashboard updated: 0 needs action, 7 pending, 85 done
+2026-02-26 23:03:30,391 - INFO - Cycle complete: 0 tasks processed in 0.3s
+2026-02-26 23:08:30,498 - INFO - Starting orchestrator cycle
+2026-02-26 23:08:30,503 - INFO - Found 1 approved task(s) to execute
+2026-02-26 23:08:30,503 - INFO - Executing approved task: linkedin_test_fresh.md
+2026-02-26 23:08:30,506 - INFO - Posting to LinkedIn
+2026-02-26 23:08:30,507 - INFO - 🤖 AI EMPLOYEE: Starting LinkedIn Post (Visible Mode)...
+2026-02-26 23:08:50,331 - INFO - Opening post box...
+2026-02-26 23:08:58,219 - INFO - Clicked using selector: [aria-label*="Start a post"]
+2026-02-26 23:09:03,221 - INFO - Looking for text editor...
+2026-02-26 23:09:12,667 - INFO - Found editor using selector: .ql-editor
+2026-02-26 23:10:06,308 - INFO - Posting with Ctrl+Enter...
+2026-02-26 23:10:14,340 - WARNING - Could not verify post modal closed, but post likely sent
+2026-02-26 23:10:21,430 - INFO - Task completed and moved to Done: linkedin_test_fresh.md
+2026-02-26 23:10:21,431 - INFO - Successfully executed linkedin_test_fresh.md
+2026-02-26 23:10:21,473 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:10:21,479 - INFO - Dashboard updated: 0 needs action, 6 pending, 86 done
+2026-02-26 23:10:21,486 - INFO - Cycle complete: 0 tasks processed in 111.0s
+2026-02-26 23:15:21,496 - INFO - Starting orchestrator cycle
+2026-02-26 23:15:21,548 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:15:21,551 - INFO - Dashboard updated: 0 needs action, 6 pending, 86 done
+2026-02-26 23:15:21,556 - INFO - Cycle complete: 0 tasks processed in 0.1s
+2026-02-26 23:20:21,561 - INFO - Starting orchestrator cycle
+2026-02-26 23:20:21,584 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:20:21,586 - INFO - Dashboard updated: 0 needs action, 6 pending, 86 done
+2026-02-26 23:20:21,589 - INFO - Cycle complete: 0 tasks processed in 0.0s
+2026-02-26 23:25:21,595 - INFO - Starting orchestrator cycle
+2026-02-26 23:25:21,626 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:25:21,636 - INFO - Dashboard updated: 0 needs action, 6 pending, 86 done
+2026-02-26 23:25:21,645 - INFO - Cycle complete: 0 tasks processed in 0.1s
+2026-02-26 23:30:21,875 - INFO - Starting orchestrator cycle
+2026-02-26 23:30:23,110 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:30:23,280 - INFO - Dashboard updated: 0 needs action, 6 pending, 86 done
+2026-02-26 23:30:23,560 - INFO - Cycle complete: 0 tasks processed in 1.7s
+2026-02-26 23:38:21,248 - INFO - Posting to LinkedIn
+2026-02-26 23:38:21,249 - INFO - 🤖 AI EMPLOYEE: Starting LinkedIn Post (Visible Mode)...
+2026-02-26 23:38:53,846 - INFO - Opening post box...
+2026-02-26 23:39:01,111 - INFO - Clicked using selector: [aria-label*="Start a post"]
+2026-02-26 23:39:06,112 - INFO - Looking for text editor...
+2026-02-26 23:40:15,774 - INFO - Waiting for Post button to become enabled...
+2026-02-26 23:40:17,842 - INFO - Looking for Post button...
+2026-02-26 23:40:17,842 - INFO - Trying selector: button:has-text("Post"):not([disabled])
+2026-02-26 23:40:22,858 - INFO - Selector failed: Locator.wait_for: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Post
+2026-02-26 23:40:22,858 - INFO - Trying selector: button.share-actions__primary-action:not([disabled])
+2026-02-26 23:40:24,041 - INFO - ✅ Found enabled Post button: button.share-actions__primary-action:not([disabled])
+2026-02-26 23:40:25,103 - INFO - ✅ Post button clicked!
+2026-02-26 23:40:33,405 - INFO - ✅ Post published successfully! Modal closed.
+2026-02-26 23:41:38,540 - INFO - Task completed and moved to Done: linkedin_final_test.md
+2026-02-26 23:41:38,542 - INFO - Successfully executed linkedin_final_test.md
+2026-02-26 23:41:38,577 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:41:38,613 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-26 23:41:38,670 - INFO - Cycle complete: 0 tasks processed in 199.1s
+2026-02-26 23:46:38,721 - INFO - Starting orchestrator cycle
+2026-02-26 23:46:38,777 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:46:38,785 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-26 23:46:38,788 - INFO - Cycle complete: 0 tasks processed in 0.1s
+2026-02-26 23:51:38,798 - INFO - Starting orchestrator cycle
+2026-02-26 23:51:38,861 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:51:38,946 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-26 23:51:38,950 - INFO - Cycle complete: 0 tasks processed in 0.2s
+2026-02-26 23:56:38,957 - INFO - Starting orchestrator cycle
+2026-02-26 23:56:38,982 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-26 23:56:38,986 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-26 23:56:38,991 - INFO - Cycle complete: 0 tasks processed in 0.0s
+2026-02-27 00:01:38,995 - INFO - Starting orchestrator cycle
+2026-02-27 00:01:39,060 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:01:39,102 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 00:01:39,120 - INFO - Cycle complete: 0 tasks processed in 0.1s
+2026-02-27 00:06:39,151 - INFO - Starting orchestrator cycle
+2026-02-27 00:06:39,178 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:06:39,181 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 00:06:39,184 - INFO - Cycle complete: 0 tasks processed in 0.0s
+2026-02-27 00:11:39,187 - INFO - Starting orchestrator cycle
+2026-02-27 00:11:39,210 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:11:39,212 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 00:11:39,215 - INFO - Cycle complete: 0 tasks processed in 0.0s
+2026-02-27 00:16:39,217 - INFO - Starting orchestrator cycle
+2026-02-27 00:16:39,490 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:16:39,535 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 00:16:39,542 - INFO - Cycle complete: 0 tasks processed in 0.3s
+2026-02-27 00:21:39,558 - INFO - Starting orchestrator cycle
+2026-02-27 00:21:39,575 - INFO - Found 1 task(s) in Needs_Action folder
+2026-02-27 00:21:39,581 - INFO - Processing task: invoice_small_test.md
+2026-02-27 00:21:39,582 - ERROR - Error processing invoice_small_test.md: No AI client available. Please configure:
+  - ANTHROPIC_API_KEY for Claude API, OR
+  - GEMINI_API_KEY for Gemini API, OR
+  - ANTHROPIC_BASE_URL for local CCR
+2026-02-27 00:21:39,649 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:21:39,683 - INFO - Dashboard updated: 1 needs action, 6 pending, 87 done
+2026-02-27 00:21:39,700 - INFO - Cycle complete: 0 tasks processed in 0.1s
+2026-02-27 00:26:39,889 - INFO - Starting orchestrator cycle
+2026-02-27 00:26:40,284 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:26:40,524 - INFO - Dashboard updated: 0 needs action, 7 pending, 87 done
+2026-02-27 00:26:40,606 - INFO - Cycle complete: 0 tasks processed in 0.7s
+2026-02-27 00:31:40,650 - INFO - Starting orchestrator cycle
+2026-02-27 00:31:40,692 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:31:40,697 - INFO - Dashboard updated: 0 needs action, 7 pending, 87 done
+2026-02-27 00:31:40,705 - INFO - Cycle complete: 0 tasks processed in 0.1s
+2026-02-27 00:36:40,729 - INFO - Starting orchestrator cycle
+2026-02-27 00:36:40,809 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:36:40,874 - INFO - Dashboard updated: 0 needs action, 7 pending, 87 done
+2026-02-27 00:36:40,923 - INFO - Cycle complete: 0 tasks processed in 0.2s
+2026-02-27 00:41:40,958 - INFO - Starting orchestrator cycle
+2026-02-27 00:41:41,070 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:41:41,117 - INFO - Dashboard updated: 0 needs action, 7 pending, 87 done
+2026-02-27 00:41:41,136 - INFO - Cycle complete: 0 tasks processed in 0.2s
+2026-02-27 00:46:41,159 - INFO - Starting orchestrator cycle
+2026-02-27 00:46:41,189 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:46:41,193 - INFO - Dashboard updated: 0 needs action, 7 pending, 87 done
+2026-02-27 00:46:41,209 - INFO - Cycle complete: 0 tasks processed in 0.0s
+2026-02-27 00:51:41,437 - INFO - Starting orchestrator cycle
+2026-02-27 00:51:41,743 - INFO - Found 1 approved task(s) to execute
+2026-02-27 00:51:41,754 - INFO - Executing approved task: invoice_small_test.md
+2026-02-27 00:51:41,757 - ERROR - No draft content found in invoice_small_test.md
+2026-02-27 00:51:41,759 - ERROR - Failed to execute invoice_small_test.md, keeping in Approved
+2026-02-27 00:51:41,827 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:51:42,085 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 00:51:42,108 - INFO - Cycle complete: 0 tasks processed in 0.7s
+2026-02-27 00:56:42,168 - INFO - Starting orchestrator cycle
+2026-02-27 00:56:42,312 - INFO - Found 1 approved task(s) to execute
+2026-02-27 00:56:42,313 - INFO - Executing approved task: invoice_small_test.md
+2026-02-27 00:56:42,315 - ERROR - No draft content found in invoice_small_test.md
+2026-02-27 00:56:42,316 - ERROR - Failed to execute invoice_small_test.md, keeping in Approved
+2026-02-27 00:56:42,385 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 00:56:42,401 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 00:56:42,433 - INFO - Cycle complete: 0 tasks processed in 0.3s
+2026-02-27 01:01:42,439 - INFO - Starting orchestrator cycle
+2026-02-27 01:01:42,445 - INFO - Found 1 approved task(s) to execute
+2026-02-27 01:01:42,445 - INFO - Executing approved task: invoice_small_test.md
+2026-02-27 01:01:42,448 - ERROR - No draft content found in invoice_small_test.md
+2026-02-27 01:01:42,449 - ERROR - Failed to execute invoice_small_test.md, keeping in Approved
+2026-02-27 01:01:42,486 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 01:01:42,488 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 01:01:42,492 - INFO - Cycle complete: 0 tasks processed in 0.1s
+2026-02-27 01:06:42,497 - INFO - Starting orchestrator cycle
+2026-02-27 01:06:42,500 - INFO - Found 1 approved task(s) to execute
+2026-02-27 01:06:42,501 - INFO - Executing approved task: invoice_small_test.md
+2026-02-27 01:06:42,503 - ERROR - No draft content found in invoice_small_test.md
+2026-02-27 01:06:42,503 - ERROR - Failed to execute invoice_small_test.md, keeping in Approved
+2026-02-27 01:06:42,526 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 01:06:42,528 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 01:06:42,533 - INFO - Cycle complete: 0 tasks processed in 0.0s
+2026-02-27 01:11:42,537 - INFO - Starting orchestrator cycle
+2026-02-27 01:11:42,540 - INFO - Found 1 approved task(s) to execute
+2026-02-27 01:11:42,540 - INFO - Executing approved task: invoice_small_test.md
+2026-02-27 01:11:42,549 - ERROR - No draft content found in invoice_small_test.md
+2026-02-27 01:11:42,549 - ERROR - Failed to execute invoice_small_test.md, keeping in Approved
+2026-02-27 01:11:42,566 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 01:11:42,568 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 01:11:42,571 - INFO - Cycle complete: 0 tasks processed in 0.0s
+2026-02-27 01:16:42,574 - INFO - Starting orchestrator cycle
+2026-02-27 01:16:42,577 - INFO - Found 1 approved task(s) to execute
+2026-02-27 01:16:42,578 - INFO - Executing approved task: invoice_small_test.md
+2026-02-27 01:16:42,581 - ERROR - No draft content found in invoice_small_test.md
+2026-02-27 01:16:42,582 - ERROR - Failed to execute invoice_small_test.md, keeping in Approved
+2026-02-27 01:16:42,597 - WARNING - Could not get PM2 status: [WinError 2] The system cannot find the file specified
+2026-02-27 01:16:42,599 - INFO - Dashboard updated: 0 needs action, 6 pending, 87 done
+2026-02-27 01:16:42,601 - INFO - Cycle complete: 0 tasks processed in 0.0s

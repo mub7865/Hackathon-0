@@ -1,0 +1,11 @@
+2026-03-05 15:54:00,658 - file_handler - INFO - New file detected: invoice_request_20260305_154500.md (attempt 1/3)
+2026-03-05 15:54:00,750 - file_handler - ERROR - Error creating task for D:\Hackathons\hackathon-0\silver\vault\Inbox\invoice_request_20260305_154500.md (attempt 1/3): 'TaskFile' object has no attribute 'metadata'
+2026-03-05 15:54:00,750 - file_handler - INFO - Retrying in 2 seconds...
+2026-03-05 15:54:02,755 - file_handler - INFO - New file detected: invoice_request_20260305_154500.md (attempt 2/3)
+2026-03-05 15:54:02,756 - file_handler - ERROR - Error creating task for D:\Hackathons\hackathon-0\silver\vault\Inbox\invoice_request_20260305_154500.md (attempt 2/3): 'NoneType' object has no attribute 'metadata'
+2026-03-05 15:54:02,757 - file_handler - INFO - Retrying in 2 seconds...
+2026-03-05 15:54:04,764 - file_handler - INFO - New file detected: invoice_request_20260305_154500.md (attempt 3/3)
+2026-03-05 15:54:04,765 - file_handler - ERROR - Error creating task for D:\Hackathons\hackathon-0\silver\vault\Inbox\invoice_request_20260305_154500.md (attempt 3/3): 'NoneType' object has no attribute 'metadata'
+2026-03-05 15:54:04,765 - file_handler - ERROR - Failed to create task after 3 attempts: D:\Hackathons\hackathon-0\silver\vault\Inbox\invoice_request_20260305_154500.md
+2026-03-05 16:16:55,543 - file_handler - INFO - New file detected: invoice_abc_20260305_161000.md (attempt 1/3)
+2026-03-05 16:16:55,550 - file_handler - INFO - Task created: file_20260305161655

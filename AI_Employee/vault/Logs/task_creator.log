@@ -1,0 +1,5 @@
+2026-01-21 20:18:01,268 - task_creator - INFO - Created task file_20260121201801 from watcher_test_1769008580.txt
+2026-03-05 15:54:00,708 - task_creator - INFO - Created task file_20260305155400 from invoice_request_20260305_154500.md
+2026-03-05 15:54:02,756 - task_creator - INFO - File already processed: invoice_request_20260305_154500.md
+2026-03-05 15:54:04,765 - task_creator - INFO - File already processed: invoice_request_20260305_154500.md
+2026-03-05 16:16:55,550 - task_creator - INFO - Created task file_20260305161655 from invoice_abc_20260305_161000.md
