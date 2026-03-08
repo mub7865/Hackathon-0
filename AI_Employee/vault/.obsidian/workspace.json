@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "01787742db19e458",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ea958d2ed5590d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2a304af7a2f8ce9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "instagram_error_upload_post_20260305_162257.png"
+              },
+              "icon": "lucide-image",
+              "title": "instagram_error_upload_post_20260305_162257"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e9fa072df5edd8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf2e7f2024e2318d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b809982fd796e9cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c87fef8cb77106ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "50bda967c3495f34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3966ab16a01ed94d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e22a0c0e778b045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eb42a02a4074cb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plans/demo_complex_task_001_Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for demo_complex_task_001_Plan"
+            }
+          },
+          {
+            "id": "a8a027332538cca5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plans/demo_complex_task_001_Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from demo_complex_task_001_Plan"
+            }
+          },
+          {
+            "id": "eb5275f558dd9130",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "18ebcae9463314d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e9379129d2b1ad8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plans/demo_complex_task_001_Plan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of demo_complex_task_001_Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a2a304af7a2f8ce9",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "Company_Handbook.md",
+    "instagram_error_upload_post_20260305_200711.png",
+    "Briefings/2026-02-22_briefing.md",
+    "wa_error_180354.png",
+    "wa_error_180153.png",
+    "wa_error_175955.png",
+    "wa_error_175306.png",
+    "wa_error_175104.png",
+    "wa_error_174856.png",
+    "wa_error_174655.png",
+    "wa_error_174457.png",
+    "wa_error_164745.png",
+    "Approved/instagram_post_20260303_154044.md",
+    "Approved/test_insta_fix.md",
+    "Done/TEST_E2E_20260218182545.md",
+    "Briefings/2026-03-01_briefing.md",
+    "Approved/expense_office_supplies_20260305.md",
+    "Done/expense_office_supplies_20260305.md",
+    "Needs_Action/expense_office_supplies_20260305.md",
+    "Done/TEST_EMPLOYEE.md.md",
+    "Done/TEST_FIX_VERIFICATION.md",
+    "Done/test_invoice_skill_20260305.md",
+    "Approved/payment_abc_company_20260305.md",
+    "Done/payment_abc_company_20260305.md",
+    "Needs_Action/payment_abc_company_20260305.md",
+    "Needs_Action/Untitled.md",
+    "Done/invoice_xyz_company_20260305.md",
+    "Approved/invoice_xyz_company_20260305.md",
+    "Needs_Action/invoice_xyz_company_20260305.md",
+    "Inbox/invoice_request_20260305_154500.md",
+    "Inbox/invoice_abc_20260305_161000.md",
+    "Needs_Action/FILE_invoice_abc_20260305_161000_md_20260305161655.md",
+    "Needs_Action/FILE_invoice_request_20260305_154500_md_20260305155400.md",
+    "Pending_Approval/TEST_WA_SINGLE_ORCH_172530.md",
+    "Logs/error-20260305-155404.md",
+    "Pending_Approval/facebook_post_ai_employee_intro.md.tmp.12580.1772229060406",
+    "Needs_Action/facebook_post_fix_test.md.tmp.12580.1772226316434",
+    "Needs_Action/invoice_large_test.md.tmp.10208.1772140316285",
+    "Briefings",
+    "Logs/errors.json",
+    "Logs/gmail-actions-2026-02-24.log",
+    "Logs/gmail-actions-2026-02-23.log",
+    "Logs/whatsapp-execution-log.md.tmp.14601.1771002860974",
+    "Dashboard.md.tmp.14098.1771001368728",
+    "Dashboard.md.tmp.14098.1771001368466"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "last_scan": "2026-03-05T11:16:55.549065+00:00",
+  "processed_files": [
+    {
+      "filename": "watcher_test_1769008580.txt",
+      "processed_at": "2026-01-21T15:18:01.264232+00:00",
+      "task_id": "file_20260121201801"
+    },
+    {
+      "filename": "invoice_request_20260305_154500.md",
+      "processed_at": "2026-03-05T10:54:00.684956+00:00",
+      "task_id": "file_20260305155400"
+    },
+    {
+      "filename": "invoice_abc_20260305_161000.md",
+      "processed_at": "2026-03-05T11:16:55.549033+00:00",
+      "task_id": "file_20260305161655"
+    }
+  ],
+  "pending_tasks": [
+    "file_20260121201801",
+    "file_20260305155400",
+    "file_20260305161655"
+  ],
+  "watcher_version": "1.0.0"
+}

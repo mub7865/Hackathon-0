@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables (CONTAINS SECRETS - NEVER COMMIT)
+.env
+.env.local
+
+# Credentials (CONTAINS SECRETS - NEVER COMMIT)
+.credentials/
+*.pickle
+
+# Sessions (CONTAINS LOGIN COOKIES - NEVER COMMIT)
+sessions/
+
+# Logs (MAY CONTAIN SENSITIVE DATA)
+*.log
+logs/
+
+# Sensitive JSON files
+config/gmail_credentials.json
+config/gmail_token.json
+
+# Keep these JSON files (safe to commit)
+!package.json
+!package-lock.json
+!tsconfig.json
+!.claude/mcp.json
+!config/watcher_config.json
+!config/odoo_config.yaml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright
+.playwright/
+
+# MCP servers (has symlinks that cause issues)
+mcp-servers/
+
+# Problematic session directories with wrong paths
+DHackathonshackathon-0silversessions*/
+DHackathonshackathon-0silvervault*/

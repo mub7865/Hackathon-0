@@ -1,0 +1,36 @@
+# Odoo Configuration for Gold Tier
+# Connection settings are loaded from .env file
+
+# Approval thresholds (from clarifications)
+approval_threshold: 100.00  # Transactions above this amount require human approval
+
+# Rate limits
+max_requests_per_minute: 100
+
+# Retry configuration
+max_retries: 3
+retry_delay_base: 1  # seconds
+retry_delay_max: 60  # seconds
+
+# Transaction categories
+expense_categories:
+  - Software Subscriptions
+  - Office Supplies
+  - Professional Services
+  - Marketing
+  - Utilities
+  - Travel
+  - Other
+
+revenue_sources:
+  - Consulting Services
+  - Product Sales
+  - Subscription Revenue
+  - Other Income
+
+# Odoo models
+models:
+  invoice: account.move
+  payment: account.payment
+  partner: res.partner
+  product: product.product
